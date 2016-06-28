@@ -2,6 +2,9 @@
 255.255.255.255	broadcasthost
 ::1                          localhost
 
+127.0.0.1  s2.sknets.com
+127.0.0.1  s3.sknets.com
+127.0.0.1  p3.sknets.com
 127.0.0.1  lives.l.qq.com
 127.0.0.1  news.l.qq.com
 127.0.0.1  p.l.qq.com
