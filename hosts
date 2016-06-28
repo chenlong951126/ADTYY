@@ -2,6 +2,10 @@
 255.255.255.255	broadcasthost
 ::1                          localhost
 
+127.0.0.1  androidads23.adcolony.com
+127.0.0.1  googleads.g.doubleclick.net
+127.0.0.1  bid.g.doubleclick.net
+127.0.0.1 china-cdn.unityads.unity3d.com
 127.0.0.1  s2.sknets.com
 127.0.0.1  s3.sknets.com
 127.0.0.1  p3.sknets.com
